@@ -39,7 +39,7 @@ This project is deployed using **Streamlit**, allowing you to interact with the 
 
 ### Prerequisites
 
-To run the Streamlit app locally, you need to have Python 3.x installed, along with the following dependencies:
+To run the Streamlit app locally, you need to have Python installed, along with the following dependencies:
 - pandas
 - numpy
 - matplotlib
